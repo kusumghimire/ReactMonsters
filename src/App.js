@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -7,18 +8,6 @@ class App extends Component {
 
     this.state = {
       monsters: [
-        // {
-        //   name: 'Franken',
-        //   id: 'asc1'
-        // },
-        // {
-        //   name: 'Dracula',
-        //   id: 'asc2'
-        // },
-        // {
-        //   name: 'Zombie',
-        //   id: 'asc13'
-        // }
       ]
     };
   }
