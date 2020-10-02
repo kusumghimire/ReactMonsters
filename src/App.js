@@ -20,13 +20,12 @@ componentDidMount(){
   render() {
     return (
       <div className="App">
-        <CardList className="Bhantu">
-          <h1>Welcome</h1>
-        </CardList>
+        <CardList className="Yihua">
         {
           this.state.monsters.map(monster =>
             <h1 key={monster.id}>{monster.name}</h1>)
         }
+        </CardList>
       </div>
     );
   }
