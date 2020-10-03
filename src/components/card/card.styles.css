@@ -15,3 +15,7 @@
   .card-container:hover {
     transform: scale(1.05);
   }
+  .card-container img{
+    height: 180px;
+    width: 180px;
+  }
