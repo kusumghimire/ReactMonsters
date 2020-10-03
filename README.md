@@ -1,3 +1,5 @@
+ Did as a part of a Udemy Course while learning React JS.
+
 ![Alt text](img.JPG?raw=true "Optional Title")
 
 Do visit https://kusumghimire.github.io/ReactMonsters/
