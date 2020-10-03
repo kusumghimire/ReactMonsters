@@ -5,6 +5,12 @@ h1{
   font-family: 'Bigelow Rules', cursive;
   font-size: 72px;
   color: #0ccac4;
+
+}
+@media only screen and (max-width:500px){
+  h1{
+    font-size: 12vw;
+  }
 }
 
 .App-logo {
